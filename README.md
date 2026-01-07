@@ -14,7 +14,7 @@ I'm passionate about building interactive web experiences, learning secure devel
 - 🔐 **Future Goal:** Cyber Security Engineer
 - 🤖 **Automation Focus:** n8n & workflow automation
 - 🌱 **Currently learning:** Web security fundamentals, JavaScript frameworks, automation logic
-- 📫 **Contact:** your.email@example.com
+- 📫 **Contact:** tedjferhat2@gmail.com / @t9e12j instagram
 
 ---
 
